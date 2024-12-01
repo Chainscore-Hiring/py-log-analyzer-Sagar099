@@ -24,6 +24,9 @@ isort>=5.12.0  # Import sorting
 # Utilities
 python-dateutil>=2.8.2  # For datetime parsing
 pydantic>=2.4.0  # For data validation
+<<<<<<< HEAD
 
 pytest==7.4.2
 aiohttp==3.8.5
+=======
+>>>>>>> f9f616e5113d2b9cf80789f4024f6db869e36bef
